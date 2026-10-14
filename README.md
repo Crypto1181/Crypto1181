@@ -1,5 +1,5 @@
-# Hi 👋 My name is Fatai Oladayo Owotutu
-# My Business Name is James
+# Hi 👋 My name is James
+
 
 ### Senior Full-Stack Developer | Mobile & Web Applications
 

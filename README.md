@@ -1,4 +1,4 @@
-# Hi 👋 My name is James
+# Hi 👋 My name is Fatai Oladayo Owotutu
 
 
 ### Senior Full-Stack Developer | Mobile & Web Applications
